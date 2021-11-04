@@ -4,5 +4,8 @@ export default makeStyles((theme)=>({
 mapcontainer:{
     height:'85vh',
     width:'100%',
+  },
+  markcontainer:{
+
   }
 }))
